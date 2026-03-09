@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python .claude/skills/ui-ux-pro-max/scripts/search.py \"design agency branding creative studio\" --design-system -p \"Void Studio\")",
+      "Bash(python .claude/skills/ui-ux-pro-max/scripts/search.py \"brutalism motion dark creative agency\" --domain style)"
+    ]
+  }
+}
