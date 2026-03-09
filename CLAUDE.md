@@ -12,3 +12,5 @@
 - Keine generischen AI-Aesthetics
 - Bold, distinctive Design-Choices
 - Performance-optimiert (Core Web Vitals)
+
+....
